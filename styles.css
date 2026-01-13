@@ -1,0 +1,23 @@
+div { 
+    background: rgb(255, 0, 0); 
+    display: block;
+}
+span { 
+    color: rgba(0, 255, 0, 0.5); 
+    display : inline;
+}
+span { background: hsl(240, 69%, 47%); }
+
+.greentext { 
+    color: hsl(120, 16%, 56%); 
+    font-weight: bold;}
+
+.box {
+    padding: 8px;
+    border: 2px solid #000;
+}
+
+#highlight {
+    background: yellow;
+    padding: 2px 4px;
+}
