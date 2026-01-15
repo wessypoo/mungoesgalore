@@ -9,15 +9,15 @@ span {
 span { background: hsl(240, 69%, 47%); }
 
 .greentext { 
-    color: hsl(120, 16%, 56%); 
+    color: hsl(120, 100%, 45%); 
     font-weight: bold;}
 
-.box {
+.mangoes {
     padding: 8px;
-    border: 2px solid #000;
+    border: 2px solid #e36464;
 }
 
-#highlight {
-    background: yellow;
+#thosewhoknow {
+    background: rgb(88, 110, 175);
     padding: 2px 4px;
 }
